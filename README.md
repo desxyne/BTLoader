@@ -1,8 +1,6 @@
 # 💧 BTLoader
 
-Tweak to inject [Ra1n](https://github.com/ra1ncord/ra1n) into Discord and perform various tasks.
-
-**We at BTLoader wish to clarify that while BTLoader is intended to load Ra1n upon its release, this functionality is not yet available. Consequently, BTLoader currently loads the Kettu Bundle.**
+This program is now archived, I now forbid anyone related to the Kettu / Rain project from using my changes to the original fork BunnyTweak.
 
 ## Installation
 
