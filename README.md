@@ -1,6 +1,10 @@
-# 💧 BTLoader
+# BoundTweak Loader. Always been its name.
 
-This program is now archived, I now forbid anyone related to the Kettu / Rain project from using my changes to the original fork BunnyTweak.
+This repository is archived and no longer maintained.
+
+After around three years of collaboration, the partnership ended due to a fundamental breach of trust. I will not continue development or support.
+
+The code remains available under its existing OSL 3.0 license for anyone who wishes to fork or use it.
 
 ## Installation
 
