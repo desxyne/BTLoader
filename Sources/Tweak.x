@@ -276,7 +276,8 @@ id                    gBridge        = nil;
 
         if (shakeDuration >= 0.5 && shakeDuration <= 2.0)
         {
-            dispatch_async(dispatch_get_main_queue(), ^{ showSettingsSheet(); });
+            // annoying fucakss menu
+            //dispatch_async(dispatch_get_main_queue(), ^{ showSettingsSheet(); });
         }
         isShaking = NO;
     }
